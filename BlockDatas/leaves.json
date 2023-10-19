@@ -1,0 +1,8 @@
+{
+  "up": "leaves",
+  "down": "leaves",
+  "right": "leaves",
+  "left": "leaves",
+  "forward": "leaves",
+  "backward": "leaves"
+}

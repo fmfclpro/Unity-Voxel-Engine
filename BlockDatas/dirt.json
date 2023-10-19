@@ -1,0 +1,8 @@
+{
+  "up": "dirt",
+  "down": "stone",
+  "right": "stone",
+  "left": "stone",
+  "forward": "stone",
+  "backward": "stone"
+}

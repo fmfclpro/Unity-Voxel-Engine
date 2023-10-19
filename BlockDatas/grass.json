@@ -1,0 +1,8 @@
+{
+  "up": "grass_top",
+  "down": "dirt",
+  "right": "grass_side",
+  "left": "grass_side",
+  "forward": "grass_side",
+  "backward": "grass_side"
+}

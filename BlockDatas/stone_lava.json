@@ -1,0 +1,8 @@
+{
+  "up": "stone_lava",
+  "down": "stone",
+  "right": "stone",
+  "left": "stone",
+  "forward": "stone",
+  "backward": "stone"
+}

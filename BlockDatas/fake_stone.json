@@ -1,0 +1,8 @@
+{
+  "up": "fake_stone",
+  "down": "fake_stone",
+  "right": "fake_stone",
+  "left": "fake_stone",
+  "forward": "fake_stone",
+  "backward": "fake_stone"
+}

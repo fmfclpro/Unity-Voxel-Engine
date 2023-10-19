@@ -1,0 +1,8 @@
+{
+  "up": "log_base",
+  "down": "log_base",
+  "right": "log_side",
+  "left": "log_side",
+  "forward": "log_side",
+  "backward": "log_side"
+}
